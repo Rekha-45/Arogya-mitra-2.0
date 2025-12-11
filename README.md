@@ -4,4 +4,4 @@ To run this locally
 ->type "npm run dev"
 
 
-project is hosted at https://v0.app/chat/arogya-mitra-2-1x7pQtRGZFy?ref=S7GC23
+project is hosted at https://v0-arogya-mitra.vercel.app/
